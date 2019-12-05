@@ -1,0 +1,11 @@
+# Project exclude paths
+/springcloud-parent-common/target/
+/springcloud-parent-config/target/
+/springcloud-parent-eureka/target/
+/springcloud-parent-feign-consumer/target/
+/springcloud-parent-provider/target/
+/springcloud-parent-ribbon-consumer/target/
+/springcloud-parent-zuul/target/
+
+.idea
+*.iml
